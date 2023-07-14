@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahssarcastic
-- 👀 I’m interested in Design, Graphics, Machine Learning, and Chess
-- 🌱 I’m currently learning Three.js
+- 👀 I’m interested in Design, Graphics, and Chess
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me niniguezg@gmail.com
 
